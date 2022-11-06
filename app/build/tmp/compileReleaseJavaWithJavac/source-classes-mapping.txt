@@ -1,0 +1,8 @@
+com/avalibeyaz/twa/LauncherActivity.java
+ com.avalibeyaz.twa.LauncherActivity
+com/avalibeyaz/twa/Application.java
+ com.avalibeyaz.twa.Application
+com/avalibeyaz/twa/BuildConfig.java
+ com.avalibeyaz.twa.BuildConfig
+com/avalibeyaz/twa/DelegationService.java
+ com.avalibeyaz.twa.DelegationService

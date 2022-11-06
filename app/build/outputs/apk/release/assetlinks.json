@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "com.avalibeyaz.twa",
+                     "sha256_cert_fingerprints": ["06:BF:18:62:7F:B3:A5:3E:4C:13:43:8C:85:A8:32:1D:B1:4D:81:E0:0D:1D:96:28:4A:76:42:6B:86:F7:75:7D"] }
+      }
+]
