@@ -1,4 +1,4 @@
-# pwa-android-app
+# PWA Android App
  Av. Ali BEYAZ'ın resmi Android uygulaması  
  Kendi web sayfanızı uygulamaya çevirip Google Play Store'a yükleyebilmeniz için örnek olarak paylaşılmıştır.  
  
